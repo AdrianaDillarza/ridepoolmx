@@ -1,5 +1,5 @@
 
-![logo](./images/logo.png)
+![logo](images/logo.png)
 
 
 * Proyecto Sprint #1 - *Track UX Laboratoria**
@@ -24,13 +24,16 @@ Optimizar el journey que realiza un usuario que desea viajar de la CDMX a Cuerna
 
 *Empathy Map*
 
-![logo](./images/empathy-map.png)
+![empathy map](images/mapa.png)
 
 *Estrategia de Research*
 
 + Preguntas basadas en respuestas (el flujo de la encuesta se diseñó  dependiendo del perfil de usuario)
 + Horario de lanzamiento oportuno
 + Canal de difusión objetivo
+
+Encuesta
+![encuesta](images/encuesta.png)
 
 *Retos de Investigación*
 
@@ -65,7 +68,19 @@ Optimizar el journey que realiza un usuario que desea viajar de la CDMX a Cuerna
 
 *Producto para la solucion del problema: Landing Page*
 + Sketch:
-![logo](./images/wireframe.jpg)
+![logo](images/wireframe.jpg)
 
 *Prototipo*
-![logo](./images/sketch.png)
+![logo](images/sketch.png)
+
+*Evaluaciones*
+
+HEATMAP
+![heatmap](images/heatmap.jpg)
+
+MOVEMENT
+![movement](images/movement.jpg)
+
+REBOTE
+![REBOTE](images/rebote.png)
+
