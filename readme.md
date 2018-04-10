@@ -33,6 +33,7 @@ Optimizar el journey que realiza un usuario que desea viajar de la CDMX a Cuerna
 + Canal de difusión objetivo
 
 Encuesta
+
 ![encuesta](images/encuesta.png)
 
 *Retos de Investigación*
