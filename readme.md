@@ -3,10 +3,11 @@
 
 ##  Proyecto Sprint 1 - *Track UX Laboratoria*
 
-![ridepool](https://user-images.githubusercontent.com/31967563/38890424-faa3533c-4246-11e8-8fa7-2a465fb9967e.png)
+
+![ridepool-portada](https://user-images.githubusercontent.com/31967563/38892543-24cd3a0a-424d-11e8-85f0-175634ad84c1.png)
+
 
 * Nombre del proyecto: *RIDEPOOLMX**
-
 
 *Objetivo*
 Optimizar el journey que realiza un usuario que desea viajar de la CDMX a Cuernavaca.
