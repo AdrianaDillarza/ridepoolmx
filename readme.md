@@ -5,7 +5,6 @@
 
 ![ridepool](https://user-images.githubusercontent.com/31967563/38890424-faa3533c-4246-11e8-8fa7-2a465fb9967e.png)
 
-* Proyecto Sprint #1 - *Track UX Laboratoria**
 * Nombre del proyecto: *RIDEPOOLMX**
 
 
