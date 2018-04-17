@@ -3,8 +3,7 @@
 
 ## * Proyecto Sprint #1 - *Track UX Laboratoria**
 
-![save-the-children-logo](https://user-images.githubusercontent.com/31967563/38889973-c321b224-4245-11e8-8ca5-25dfa1e40d9f.jpg)
-
+![ridepool](https://user-images.githubusercontent.com/31967563/38890424-faa3533c-4246-11e8-8fa7-2a465fb9967e.png)
 
 * Proyecto Sprint #1 - *Track UX Laboratoria**
 * Nombre del proyecto: *RIDEPOOLMX**
