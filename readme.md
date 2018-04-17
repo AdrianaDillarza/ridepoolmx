@@ -1,8 +1,9 @@
-# RIDEPOOL
+# RidepoolMX
+## Desarrollado para [Laboratoria](https://http://laboratoria.la/)
 
-![portadaridepool](https://user-images.githubusercontent.com/31967563/38587087-dcb449aa-3ce5-11e8-9e7b-1b4fdf66fae7.png)
+## * Proyecto Sprint #1 - *Track UX Laboratoria**
 
-![logo](images/logo.png)
+![save-the-children-logo](https://user-images.githubusercontent.com/31967563/38889973-c321b224-4245-11e8-8ca5-25dfa1e40d9f.jpg)
 
 
 * Proyecto Sprint #1 - *Track UX Laboratoria**
